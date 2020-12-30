@@ -1,0 +1,18 @@
+Linear Regression
+    ⍺ -> learning rate
+    Regularization
+        λ -> lambda
+Logistic Regression
+Neural Networks
+SVM Support Vector Machine
+Kernels (Gaussian)
+    Landmarks
+Diagnostics
+    Training set    60%
+    Test set        20%
+    Validation set  20%
+
+    Precision - Recall
+
+    Overfitting - Variance
+    Underfitting - Bias
